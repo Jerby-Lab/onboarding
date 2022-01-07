@@ -43,7 +43,7 @@ If you are not on the Stanford wifi, then you'll need to connect first via VPN. 
 
 ## More Questions? 
 
-The Jerby Lab has a #computing channel on Slack for all your remaining computing questions.
+The Jerby Lab has a `#computing` channel on Slack for all your remaining computing questions.
 
 
 
