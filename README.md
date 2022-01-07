@@ -31,7 +31,7 @@ Please add the following computing cluster Slack resources. There are folks on c
 
 To gain access to SCG, please email scg-action@lists.stanford.edu, cc-ing Livnat to ask for access and they will process it on the back end. Once you are approved, you can sign into SCG via the Terminal by the following command: 
 
-        `ssh SUNetID@scg.stanford.edu` 
+        ssh SUNetID@scg.stanford.edu 
 
 ## Storage - Oak 
 
