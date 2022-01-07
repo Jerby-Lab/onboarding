@@ -3,7 +3,7 @@ _This repo contains information and documentation to help newcomers to the Jerby
 
 ## Slack
 
-If you are not already on slack, please ask by searching *JerbyLab* and requesting to join here: https://stanford.enterprise.slack.com/
+If you are not already on slack, please ask by searching **JerbyLab** and requesting to join here: https://stanford.enterprise.slack.com/
 
 ## Stanford Virtual Private Network 
 
@@ -15,8 +15,8 @@ Instructions for setting up VPN: https://uit.stanford.edu/service/vpn
 
 Stanford Research Computing Center is the hub of all computing resources for the School of Medicine. https://srcc.stanford.edu/. The two servers that are most relevant:
 
-- *SCG* - Genomics Cluster (most commonly used in Dept of Genetics)
-- *Sherlock* - Higher performance computing with GPU accelerators, approved for patient health information (PHI)
+- **SCG** - Genomics Cluster (most commonly used in Dept of Genetics)
+- **Sherlock** - Higher performance computing with GPU accelerators, approved for patient health information (PHI)
 
 ### SCG
 Please use SCG as this cluster should allow you to do almost everything you need to do. If you need more intensive GPU power or are working with PHI, reach out to Livnat. 
@@ -29,7 +29,9 @@ Please add the following computing cluster Slack resources. There are folks on c
 | #scg-announce     | Place where SCG related announcements are made. Outages, maintenance, configuration changes, seminars, related services, …  |
 | #scg-office-hours | SCG office hours happen every two weeks, in this Slack channel. Hours are announced in advance at #scg-announce             |
 
-To gain access to SCG, please email scg-action@lists.stanford.edu, cc-ing Livnat to ask for access and they will process it on the back end. 
+To gain access to SCG, please email scg-action@lists.stanford.edu, cc-ing Livnat to ask for access and they will process it on the back end. Once you are approved, you can sign into SCG via the Terminal by the following command: 
+
+        `ssh SUNetID@scg.stanford.edu` 
 
 ## Storage - Oak 
 
