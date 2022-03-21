@@ -33,6 +33,10 @@ To gain access to SCG, please email scg-action@lists.stanford.edu, cc-ing Livnat
 
         ssh SUNetID@scg.stanford.edu 
 
+To mount SCG on Mac OSX, use the Finder (command-K) and paste in the following URL: `smb://samba.scg.stanford.edu`
+
+*IMPORTANT:* Please use SUNetID@stanford.edu as login (and not only your SUNet ID). Then, select the `lab_ljerby` folder to access the lab's directory on SCG. 
+
 ## Storage - Oak 
 
 Once you gain access to SCG or Sherlock, you should have access to Oak storage. Oak is file system where we store all of our data. More information here: https://uit.stanford.edu/service/oak-storage. 
