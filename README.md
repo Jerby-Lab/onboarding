@@ -39,7 +39,7 @@ Once you gain access to SCG or Sherlock, you should have access to Oak storage. 
 
 You can access oak in Terminal via the directory `/oak/stanford/groups/ljerby/`
 
-To mount Oak on Mac, use the Finder (command-K) and the following URL: smb://oak-smb-ljerby.stanford.edu/groups/ljerby
+To mount Oak on Mac, use the Finder (command-K) and the following URL: `smb://oak-smb-ljerby.stanford.edu/groups/ljerby`
 
 *IMPORTANT:* Please use SUNetID@stanford.edu as login (and not only your SUNet ID)
 
